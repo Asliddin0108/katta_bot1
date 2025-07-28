@@ -1,1 +1,1 @@
-telethonemoji
+telethonemoji==2.10.1
