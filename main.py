@@ -373,7 +373,7 @@ def is_valid_order(text):
     return False
 
 # 🧭 Maqsad guruh
-DEST_CHAT_ID =  -5072775952
+DEST_CHAT_ID =  -1003454728629
 dest_entity = None
 
 # 📦 Takroriy xabarlar (1 daqiqa ichida)
